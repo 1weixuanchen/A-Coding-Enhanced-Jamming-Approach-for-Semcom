@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 python3 main.py --alpha_1 1.0 --alpha_2 1.5 --alpha_3 0.01 --channel_use 128 --snr_train_leg 10 --mode train
 
-3. Testing Pipeline
+4. Testing Pipeline
 
 python3 main.py --channel_use 128 --snr_test_leg 10 --mode test
 
