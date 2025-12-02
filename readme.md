@@ -1,4 +1,5 @@
 Can Knowledge Improve Security? A Coding-Enhanced Jamming Approach for Semantic Communication
+Accepted by 2025 IEEE JSAC
 ===
 
 This repository contains the official implementation of the paper: “Can Knowledge Improve Security? A Coding-Enhanced Jamming Approach for Semantic Communication.” The method introduces a coding-enhanced jamming mechanism that leverages shared private knowledge between transmitter and receiver to generate private digital codebooks, enabling secure digital semantic communication even when the eavesdropper has the same channel SNR as the legitimate user.
