@@ -40,5 +40,9 @@ pip install -r requirements.txt
 
 python3 main.py --alpha_1 1.0 --alpha_2 1.5 --alpha_3 0.01 --channel_use 128 --snr_train_leg 10 --mode train
 
+3. Testing Pipeline
+
+python3 main.py --channel_use 128 --snr_test_leg 10 --mode test
+
 If you used our code or methods in your research, please cite:
 @article{chen2025knowledge, title={Can Knowledge Improve Security? A Coding-Enhanced Jamming Approach for Semantic Communication}, author={Weixuan Chen and Qianqian Yang and Shuo Shao and Zhiguo Shi and Jiming Chen and Xuemin Shen}, journal={arXiv:2504.16960v4 [cs.IT]}, year={Sep. 2025} }
